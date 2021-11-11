@@ -17,7 +17,7 @@ public class FindDuplicates {
 			    		
 			    		count++;
 			    	
-			    //break;		
+			    break;		
 				}
 				
 			   }
