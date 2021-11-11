@@ -15,7 +15,7 @@ public class Car {
 		Car obj = new Car();
 		obj.driveCar();
 		
-		System.out.print(Car);
+		System.out.print(obj);
 	}
 	String bodyColor = "Green";
 	int totalwheel = 4;
